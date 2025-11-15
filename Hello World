@@ -1,6 +1,6 @@
 #include <stdio.h>//导入标准输入输出头文件，才能使用printf函数；
 int main()
 {
-    printf("Hello World!");
+    printf("Hello World!/n");//打印字符串，'/n'的功能是换行
     return 0;
 }
